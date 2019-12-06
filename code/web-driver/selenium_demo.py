@@ -23,4 +23,4 @@ for person in person_name_list:
         print(person['name'] +":" +dob)
         time.sleep(2)
     except:
-          print("ERROR")
+          print(person['name'],"ERROR")

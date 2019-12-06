@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Mark Zuckerberg",
+        "location": "New York",
+        "birth-year": "1984"
+    },
+    {
+        "name": "Eduardo Saverin",
+        "location": "",
+        "birth-year": "1982"
+    },
+    {
+        "name": "Andrew McCollum",
+        "location": "California",
+        "birth-year": "1983"
+    },
+    {
+        "name": "Dustin Moskovitz",
+        "location": "Florida",
+        "birth-year": "1984"
+    },
+    {
+        "name": "Chris Hughes",
+        "location": "North Carolina",
+        "birth-year": "1983"
+    },
+    {
+        "name": "Bill Gates",
+        "location": "Washington",
+        "birth-year": "1955"
+    },
+    {
+        "name": "Paul Allen",
+        "location": "Washington",
+        "birth-year": "1953"
+    },
+    {
+        "name": "Satya Nadella",
+        "location": "",
+        "birth-year": "1967"
+    },
+    {
+        "name": "Larry Page",
+        "location": "Massachusetts",
+        "birth-year": "1973"
+    },
+    {
+        "name": "Sergey Brin",
+        "location": "",
+        "birth-year": "1973"
+    },
+    {
+        "name": "Sundar Pichai",
+        "location": "",
+        "birth-year": "1972"
+    },
+    {
+        "name": "Steve Jobs",
+        "location": "California",
+        "birth-year": "1955"
+    },
+    {
+        "name": "Steve Wozniak",
+        "location": "California",
+        "birth-year": "1950"
+    },
+    {
+        "name": "Ronald Wayne",
+        "location": "Ohio",
+        "birth-year": "1934"
+    },
+    {
+        "name": "Tim Cook",
+        "location": "Alabama",
+        "birth-year": "1960"
+    },
+    {
+        "name": "Chad Hurley",
+        "location": "Pennsylvania",
+        "birth-year": "1977"
+    },
+    {
+        "name": "Steve Chen",
+        "location": "",
+        "birth-year": "1978"
+    },
+    {
+        "name": "Jawed Karim",
+        "location": "",
+        "birth-year": "1979"
+    },
+    {
+        "name": "Susan Wojcicki",
+        "location": "California",
+        "birth-year": "1968"
+    },
+    {
+        "name": "James Park",
+        "location": "",
+        "birth-year": "1977"
+    }
+]

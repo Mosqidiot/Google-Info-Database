@@ -1,0 +1,1538 @@
+﻿[
+  {
+    "p": {
+      "identity": 123,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Android Auto",
+        "desc": "Android Auto is a mobile app developed by Google to mirror features from an Android device, such as a smartphone, to a car's compatible in-dash information and entertainment head unit.Once an Android device is paired with the head unit, the system mirrors qualified apps from the device to the vehicle's display, with a simple, driver-friendly user interface."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 124,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Android OS",
+        "desc": "Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 125,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Calendar",
+        "desc": "Google Calendar is a time-management and scheduling calendar service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 126,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Cardboard",
+        "desc": "Google Cardboard is a virtual reality (VR) platform developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 127,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Chrome Web Store",
+        "desc": "The Chrome Web Store (CWS) is Google Chrome's online store which hosts about 190,000 extensions and web apps as of 2019.[1]CWS was publicly unveiled in December 2010,[2] and was opened on February 11, 2011, with the release of Google Chrome 9.0.[3] A year later it was redesigned to \"catalyze a big increase in traffic, across downloads, users, and total number of apps\".[4] As of June 2012, there were 750 million total installs of content hosted on CWS.[5]Some extension developers have sold their extensions to third-parties who then incorporated adware.[6][7] In 2014, Google removed two such extensions from CWS after many users complained about unwanted pop-up ads.[8] The following year, Google acknowledged that about five percent of visits to its own websites had been altered by extensions with adware.[9][10][11]Malware remains a problem on CWS.[12][13][14][15] In January 2018, security researchers found four malicious extensions with more than 500,000 combined downloads.[12][16]Chrome used to allow extensions hosted on CWS to also be installed at the developer's website for the sake of convenience.[17] But this became a malware vector, so it was removed in 2018.[18]20 21+Amazing Chrome Extensions for SEO ExpertsSEO Extensions for Google Chrome."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 128,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Chromebook",
+        "desc": "A Chromebook is a laptop or tablet running the Linux-based Chrome OS as its operating system."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 129,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Chromecast",
+        "desc": "Chromecast is a line of digital media players developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 130,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Contacts",
+        "desc": "A contact lens, or simply contact, is a thin lens placed directly on the surface of the eye."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 131,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Daydream View",
+        "desc": "Daydream is a virtual reality (VR) platform developed by Google primarily for use with a head mount for a smartphone."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 132,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Docs",
+        "desc": "Google Docs is a word processor included as part of a free, web-based software office suite offered by Google within its Google Drive service."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 133,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Drawings",
+        "desc": "Google Drawings is a free, web-based diagramming software developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 134,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Drive",
+        "desc": "Google Drive is a file storage and synchronization service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 135,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Earth",
+        "desc": "Earth is the third planet from the Sun and the only astronomical object known to harbor life."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 136,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Finance",
+        "desc": "Google Finance was a website focusing on business news and financial information hosted by Google.Google Finance was first launched by Google on March 21, 2006."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 137,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Forms",
+        "desc": "Google Forms is a survey administration app that is included in the Google Drive office suite along with Google Docs, Google Sheets, and Google Slides.[1] Forms features all of the collaboration and sharing features found in Docs, Sheets, and Slides.[2]Google Forms is a tool that allows collecting information from users via a personalized survey or quiz."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 138,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Gboard",
+        "desc": "Gboard is a virtual keyboard app developed by Google for Android and iOS devices."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 139,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Gmail",
+        "desc": "Gmail is a free email service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 140,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Alerts",
+        "desc": "Google Alerts is a content change detection and notification service, offered by the search engine company Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 141,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Cast",
+        "desc": "Google Cast, branded for consumer devices as Chromecast built-in,[1] is a proprietary protocol developed by Google that enables mobile devices and personal computers to initiate and control playback of Internet-streamed audio/video content on a compatible device, such as a digital media player connected to a high-definition television or home audio system."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 142,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Classroom",
+        "desc": "Google Classroom is a free web service, developed by Google for schools, that aims to simplify creating, distributing, and grading assignments in a paperless way."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 143,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Cloud Print",
+        "desc": "Google Cloud Print is a Google service that lets users print from any Cloud Print-aware application (web, desktop, mobile) on any device in the network cloud to any printer with native support for connecting to cloud print services[2] – without Google having to create and maintain printing subsystems for all the hardware combinations of client devices and printers, and without the users having to install device drivers to the client,[2] but with documents being fully transmitted to Google.[3] Since July 23, 2013 it also allows printing from any Windows application, if Google Cloud Printer[4] is installed on the machine.[5] In November 2019, Google announced that Google Cloud Print would be discontinued at the end of 2020.[6]Google Cloud Print integrates with the mobile versions of Gmail and Google Docs, allowing users to print from their mobile devices.[7] Google Cloud Print is listed as a printer option in the Print Preview page of Google's Web browser, Google Chrome, in Chrome 16 and higher.[8] Printers without built-in Cloud Print support, often referred to as \"legacy\" or \"classic\",[2][9] are supported through a \"Cloud Print Connector\" integrated with Google Chrome versions 9 and higher.[10]Google introduced Cloud Print in April 2010, as a future solution for printing from Chrome OS.[11] They made the design document and a preliminary version of the source code available.[12][13] Google Cloud Print reached beta stage on 25 January 2011.[14]Applications print through a web-based, common print dialog (web UI) or an API."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 144,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Duo",
+        "desc": "Google Duo is a video chat mobile app developed by Google, available on the Android and iOS operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 145,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Fi",
+        "desc": "Google Fi, formerly Project Fi, is an MVNO telecommunications service by Google that provides telephone calls, SMS, and mobile broadband using cellular networks and Wi-Fi."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 146,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Fit",
+        "desc": "Google Fit is a health-tracking platform developed by Google for the Android operating system, Wear OS and Apple Inc.'s IOS."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 147,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Flights",
+        "desc": "Google Flights is an online flight booking search service which facilitates the purchase of airline tickets through third-party suppliers.In April 2011, the United States Department of Justice Antitrust Division approved Google's $700 million purchase of ITA Software.[1] On September 13, 2011 Google launched Google Flights, which used algorithms gained from this purchase.[2]An innovation of Google Flights is that it allows open-ended searches based on criteria other than the destination; for example, a user may search for flights within a range of times and a budget and be offered various destination choices.[3] Alternatively, a user can select a destination, and Google Flights will calculate every price for each day of the next 12 months, visualized in a graph or table."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 148,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Fonts",
+        "desc": "Google Fonts (previously called Google Web Fonts) is a library of 960 free licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS[1] and Android.[2]The directory was launched in 2010[3] and revamped in 2011[4] and 2016.[5] Most of the fonts are released under the SIL Open Font License 1.1, while some are released under the Apache License;[6] both are libre licenses."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 175,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Groups",
+        "desc": "Google Groups is a service from Google that provides discussion groups for people sharing common interests."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 176,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google One",
+        "desc": "Google One is a subscription service developed by Google that offers expanded cloud storage and is intended for the consumer market."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 177,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Pay",
+        "desc": "Google Pay (stylized as G Pay; formerly Pay with Google and Android Pay) is a digital wallet platform and online payment system developed by Google to power in-app and tap-to-pay purchases on mobile devices, enabling users to make payments with Android phones, tablets or watches.As of January 8, 2018, the old Android Pay and Google Wallet have unified into a single pay system called Google Pay.[3] Android Pay was rebranded and renamed as Google Pay."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 178,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Photos",
+        "desc": "Google Photos is a photo sharing and storage service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 179,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Play Books",
+        "desc": "Google Play Books, formerly Google eBooks, is an ebook digital distribution service operated by Google, part of its Google Play product line."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 180,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Play Movies & TV",
+        "desc": "Google Play Movies & TV is an online video on demand service operated by Google, part of its Google Play product line."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 181,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Play Music",
+        "desc": "Google Play Music is a music and podcast streaming service and online music locker operated by Google, part of its Google Play line of services."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 182,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Shopping",
+        "desc": "Google Shopping,[2] formerly Google Product Search, Google Products and Froogle, is a Google service invented by Craig Nevill-Manning which allows users to search for products on online shopping websites and compare prices between different vendors."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 183,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Store",
+        "desc": "Google Store is an online hardware retailer operated by Google, that sells Google Nexus and Google Pixel devices, Chromecasts, Wear OS By Google smartwatches, Nest Labs products, Chromebooks and accessories, including keyboards, chargers and phone covers."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 184,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Street View",
+        "desc": "Google Street View is a technology featured in Google Maps and Google Earth that provides interactive panoramas from positions along many streets in the world."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 185,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Google Wifi",
+        "desc": "Google Nest Wifi, formerly Google Wifi is a line of mesh-capable wireless routers developed by Google as part of the Google Nest family of products."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 186,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Hangouts",
+        "desc": "Google Hangouts is a communication software product developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 187,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Hangouts Chat",
+        "desc": "Google Hangouts is a communication software product developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 188,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Keep",
+        "desc": "Google Keep is a note-taking service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 189,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Maps",
+        "desc": "Google Maps is a web mapping service developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 190,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Messages",
+        "desc": "A message is a discrete unit of communication intended by the source for consumption by some recipient or group of recipients."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 191,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "News",
+        "desc": "Google News is a news aggregator app developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 192,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Pixel",
+        "desc": "Google Pixel is a brand of consumer electronic devices developed by Google that run either Chrome OS or the Android operating system."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 193,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Pixelbook Go",
+        "desc": "Google Pixel is a brand of consumer electronic devices developed by Google that run either Chrome OS or the Android operating system."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 194,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Scholar",
+        "desc": "Google Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 195,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Search",
+        "desc": "Google Search, also referred to as Google Web Search or simply Google, is a web search engine developed by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 196,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Sheets",
+        "desc": "Google Sheets is a spreadsheet program included as part of a free, web-based software office suite offered by Google within its Google Drive service."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 197,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Sites",
+        "desc": "Google Sites is a structured wiki- and Web page-creation tool offered by Google.The declared goal of Google Sites is for anyone to be able to create simple web sites that support collaboration between different editors.[1]Google Sites started out as JotSpot, the name and sole product of a software company that offered enterprise social software."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 198,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Slides",
+        "desc": "Google Slides is a presentation program included as part of a free, web-based software office suite offered by Google within its Google Drive service."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 199,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Tilt Brush",
+        "desc": "Tilt Brush is a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett.The Preview Trailer from September 2014 (a 1'47″ video) conveys an impression of the nature of Tilt Brush.The application is designed for 6DoF motion interfaces in virtual reality but also works with keyboard and mouse."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 200,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Translate",
+        "desc": "Google Translate is a free multilingual machine translation service developed by Google, to translate text."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 201,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Voice",
+        "desc": "Google Voice is a telephone service that provides call forwarding and voicemail services, voice and text messaging, as well as U.S."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 202,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Waze",
+        "desc": "Waze (/weɪz/; formerly FreeMap Israel) is a GPS navigation software app owned by Google."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 203,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Wear OS by Google",
+        "desc": "Wear OS (also known as Wear OS by Google, and previously known as Android Wear) is a version of Google's Android operating system designed for smartwatches and other wearables.[7][8][9] By pairing with mobile phones running Android version 4.4 or newer, or iOS version 9.3 or newer with limited support from Google's pairing application,[10] Wear OS integrates Google Assistant[11] technology and mobile notifications into a smartwatch form factor.Wear OS supports Bluetooth, Wi-Fi,[12] 3G, and LTE connectivity, as well as a range of features and applications."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 204,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "YouTube",
+        "desc": "YouTube is an American video-sharing platform headquartered in San Bruno, California."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 205,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "YouTube Kids",
+        "desc": "YouTube Kids is an American kids video website developed by YouTube."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 206,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "YouTube Music",
+        "desc": "YouTube Music is a free music streaming service developed by YouTube; it provides a tailored interface for the service oriented towards music streaming, allowing users to browse through songs and music videos on YouTube based on genres, playlists, and recommendations.The service also offers a premium tier, which enables ad-free playback, audio-only background playback, and downloading songs for offline playback."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 207,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "YouTube TV",
+        "desc": "YouTube TV is an American over-the-top internet television service that offers live TV, on demand video and cloud-based DVR from more than 70[1] television networks."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 208,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Facebook Messenger",
+        "desc": "Facebook Messenger (commonly known as Messenger)[9] is a messaging app and platform developed by Facebook, Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 209,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Instagram",
+        "desc": "Instagram (also known informally as IG or Insta[10]) is an American photo and video-sharing social networking service owned by Facebook, Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 210,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Facebook Watch",
+        "desc": "Facebook Watch is a video-on-demand service operated by Facebook, Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 211,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "WhatsApp Messenger",
+        "desc": "WhatsApp Messenger is a freeware, cross-platform messaging and Voice over IP (VoIP) service owned by Facebook, Inc.[43] It allows users to send text messages and voice messages,[44] make voice and video calls, and share images, documents, user locations, and other media.[45][46] WhatsApp's client application runs on mobile devices but is also accessible from desktop computers, as long as the user's mobile device remains connected to the Internet while they use the desktop app.[47] The service requires users to provide a standard cellular mobile number for registering with the service.[48] In January 2018, WhatsApp released a standalone business app targeted at small business owners, called WhatsApp Business, to allow companies to communicate with customers who use the standard WhatsApp client.[49][50]The client application was created by WhatsApp Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 212,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows 10",
+        "desc": "Windows 10 is a series of personal computer operating systems produced by Microsoft as part of its Windows NT family of operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 213,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows 10 Mobile",
+        "desc": "Windows 10 Mobile is a mobile operating system developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 214,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows Mixed Reality",
+        "desc": "Windows Mixed Reality is a mixed reality platform introduced as part of the Windows 10 operating system, which provides holographic and mixed reality experiences with compatible head-mounted displays.Its flagship device, Microsoft HoloLens, was announced at the \"Windows 10: The Next Chapter\" press event on January 21, 2015[1] It provides a mixed reality experience where a live presentation of physical real-world elements is incorporated with that of virtual elements (referred to as \"holograms\" by Microsoft[2][3][4][a]) such that they are perceived to exist together in a shared environment."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 215,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows Insider Program",
+        "desc": "Windows Insider is an open software testing program by Microsoft that allows users who own a valid license of Windows 10[1][2] or Windows Server 2016[3][4] to register for pre-release builds of the operating system previously only accessible to software developers.[5]Microsoft launched Windows Insider for developers, enterprise testers and the \"technically able\" to test new developer features on pre-release software & builds, not given publicly released, to gather low level diagnostics feedback in order to identify, investigate, mitigate & improve the Windows 10 OS, with the help, support and guidance of the Insider Program Participants, in direct communication with Microsoft Engineers via a proprietary communication & diagnostic channel.It was announced on September 30, 2014 along with Windows 10.[6] By September 2015, over 7 million people took part in the Windows Insider Program.[7] On February 12, 2015, Microsoft started to test out previews of Windows 10 Mobile.[8] Microsoft announced that the Windows Insider program would continue beyond the official release of Windows 10 for future updates.Gabriel Aul was the previous head in charge of Windows Insider Program."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 216,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows 8.1",
+        "desc": "Windows 8.1 is a personal computer operating system that was produced by Microsoft and released as part of the Windows NT family of operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 217,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows 7",
+        "desc": "Windows 7 is a personal computer operating system that was produced by Microsoft as part of the Windows NT family of operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 218,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows Server",
+        "desc": "Windows Server is a brand name for a group of server operating systems released by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 219,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Windows Update",
+        "desc": "Windows Update is a Microsoft service for the Windows 9x and Windows NT families of operating system, which automates downloading and installing Microsoft Windows software updates over the Internet."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 220,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Internet Explorer",
+        "desc": "Internet Explorer[a] (formerly Microsoft Internet Explorer[b] and Windows Internet Explorer,[c] commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 221,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Outlook",
+        "desc": "Microsoft Outlook is a personal information manager from Microsoft, available as a part of the Microsoft Office suite."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 222,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "OneDrive",
+        "desc": "Microsoft OneDrive is a file hosting service and synchronization service operated by Microsoft as part of its web version of Office."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 223,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Word",
+        "desc": "In linguistics, a word is the smallest element that can be uttered in isolation with objective or practical meaning.[citation needed]This contrasts deeply with a morpheme, which is the smallest unit of meaning but will not necessarily stand on its own."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 224,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "PowerPoint",
+        "desc": "Microsoft PowerPoint is a presentation program,[7] created by Robert Gaskins and Dennis Austin[7] at a software company named Forethought, Inc.[7] It was released on April 20, 1987,[8] initially for Macintosh computers only.[7] Microsoft acquired PowerPoint for $14 million three months after it appeared.[9] This was Microsoft's first significant acquisition,[10] and Microsoft set up a new business unit for PowerPoint in Silicon Valley where Forethought had been located.[10] Microsoft PowerPoint is one of many programs run by the company Microsoft and can be identified by its trademark orange, and P initial on the logo."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 225,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "OneNote",
+        "desc": "Microsoft OneNote is a program for free-form information gathering and multi-user collaboration."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 226,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Teams",
+        "desc": "Microsoft Teams is a unified communication and collaboration platform that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 227,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Publisher",
+        "desc": "Microsoft Publisher is a desktop publishing application from Microsoft, differing from Microsoft Word in that the emphasis is placed on page layout and design rather than text composition and proofing.Publisher is included in higher-end editions of Microsoft Office, reflecting Microsoft's emphasis on the application as an easy-to-use and less expensive alternative to the \"heavyweights\" with a focus on the small-business market, where firms do not have dedicated design professionals available to make marketing materials and other documents.[3][4] However, it has a relatively small share of the desktop publishing market, which is dominated by Adobe InDesign and formerly by QuarkXPress.[3]While most Microsoft Office apps adopted ribbons for their user interface starting with Microsoft Office 2007, Publisher retained its toolbars and did not adopt ribbons until Microsoft Office 2010.[5]LibreOffice has supported Publisher's proprietary file format (.pub) since February 2013.[6] Corel Draw X4 features read-only support.Publisher supports numerous other file formats, including the Enhanced Metafile (EMF) format, which is supported on Windows platforms."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 228,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Skype for Business Server",
+        "desc": "Skype for Business Server[3] (formerly Microsoft Office Communications Server and Microsoft Lync Server) is real-time communications server software that provides the infrastructure for enterprise instant messaging, presence, VoIP, ad hoc and structured conferences (audio, video and web conferencing) and PSTN connectivity through a third-party gateway or SIP trunk.[4] These features are available within an organization, between organizations and with external users on the public internet or standard phones (on the PSTN as well as SIP trunking).One basic use of Lync Server is instant messaging (IM) and presence within a single organization."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 229,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Azure",
+        "desc": "Microsoft Azure (formerly Windows Azure /ˈæʒər/) is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 230,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Intune",
+        "desc": "Microsoft Intune (formerly Windows Intune) is a Microsoft cloud-based management solution[buzzword][1] that provides for mobile device and operating system management."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 231,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Dynamics AX",
+        "desc": "Microsoft Dynamics AX is one of Microsoft's enterprise resource planning software products."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 232,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Dynamics CRM",
+        "desc": "Microsoft Dynamics CRM is a customer relationship management software package developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 233,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Dynamics GP",
+        "desc": "Microsoft Dynamics GP is a mid-market business accounting software or ERP software package marketed in North and South America, UK and Ireland, the Middle East, Singapore, Australia and New Zealand."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 234,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Power BI",
+        "desc": "Power BI is a business analytics service by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 235,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Surface",
+        "desc": "AccessoriesMicrosoft Surface is a series of touchscreen-based personal computers and interactive whiteboards designed and developed by Microsoft, running the Microsoft Windows operating system."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 236,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Surface Hub",
+        "desc": "AccessoriesThe Surface Hub is a brand of interactive whiteboard developed and marketed by Microsoft, as part of the Microsoft Surface family."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 237,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Xbox",
+        "desc": "Xbox is a video gaming brand created and owned by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 238,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "HoloLens",
+        "desc": "(Development Edition 2) announced May 2, 2019Microsoft HoloLens, known under development as Project Baraboo,[3] is a pair of mixed reality smartglasses developed and manufactured by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 239,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Band",
+        "desc": "Microsoft Band was a smart band with smartwatch and activity tracker/fitness tracker features, created and developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 240,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Mobile devices",
+        "desc": "A mobile device (or handheld computer) is a computing device small enough to hold and operate in the hand."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 241,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Visual Studio",
+        "desc": "Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 242,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft .NET Framework",
+        "desc": ".NET Framework (pronounced as \"dot net\") is a software framework developed by Microsoft that runs primarily on Microsoft Windows."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 243,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Exchange Server",
+        "desc": "Microsoft Exchange Server is a mail server and calendaring server developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 244,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft SQL Server",
+        "desc": "Microsoft SQL Server is a relational database management system developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 245,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft SharePoint Server",
+        "desc": "SharePoint is a web-based collaborative platform that integrates with Microsoft Office."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 246,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "System Center",
+        "desc": "Microsoft Servers (previously called Windows Server System) is a brand that encompasses Microsoft's server products."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 247,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Edge",
+        "desc": "Microsoft Edge is a web browser developed by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 248,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Cortana",
+        "desc": "(Coming Soon)Cortana is a virtual assistant created by Microsoft for Windows 10, Windows 10 Mobile, Windows Phone 8.1,[8] Invoke smart speaker, Microsoft Band, Surface Headphones, Xbox One,[9] iOS, Android,[10] Windows Mixed Reality, and Amazon Alexa.[7]Cortana can set reminders, recognize natural voices without the requirement for keyboard input, and answer questions using information and web results from the Bing search engine.Cortana is currently available in English, Portuguese, French, German, Italian, Spanish, Chinese, and Japanese language editions, depending on the software platform and region in which it is used.[11]Microsoft will be removing Cortana from Android and iOS on January 31st, 2020."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 249,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Skype",
+        "desc": "mobile applicationsSkype (/skaɪp/) is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 250,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Skype for Business",
+        "desc": "Skype for Business is an instant messaging (IM) enterprise software used with Skype for Business Server or with Skype for Business Online (available with Microsoft Office 365).[1]On 11 November 2014, Microsoft announced that Skype for Business would replace Microsoft Lync in 2015."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 251,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Yammer",
+        "desc": "Yammer (/ˈjæm.ər/ (help·info)) is a freemium enterprise social networking service used for private communication within organizations."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 252,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Delve",
+        "desc": "Microsoft Office shared tools are software components that are (or were) included in all Microsoft Office products.Office Delve allows Office 365 users to search and manage their emails, meetings, contacts, social networks and documents stored on OneDrive or Sites in Office 365."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 253,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Groove Music",
+        "desc": "Groove Music (formerly Xbox Music or just Music) is an audio player software included with Windows 8.0, Windows 8.1, and Windows 10.The app is also associated with a now-discontinued music streaming service, Groove Music Pass (formerly Zune Music Pass and Xbox Music Pass), which was supported across Windows, Xbox video game consoles, Windows Phone, as well as Android and iOS.[3] The Groove catalogue had over 50 million tracks.[4][5] Groove Music Pass was officially discontinued on December 31, 2017, and the Android and iOS versions of the Groove Music app were discontinued December 2018.Microsoft had previously ventured into music services with its Zune brand."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 254,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Your Phone",
+        "desc": "Your Phone is an app developed by Microsoft for Windows 10 to connect Android and iOS devices."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 255,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft account",
+        "desc": "A Microsoft account or MSA[1] (previously known as Microsoft Passport,[2] .NET Passport, Microsoft Passport Network, and Windows Live ID) is a single sign-on Microsoft user account for Microsoft customers to log into Microsoft websites (like Outlook.com), devices running on one of Microsoft's current operating systems (e.g."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 256,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Microsoft Store",
+        "desc": "Microsoft Store is a chain of retail stores and an online shopping site, owned and operated by Microsoft and dealing in computers, computer software, and consumer electronics.The Microsoft Store offers Signature PCs and tablets like the Microsoft Surface, and offerings from third parties such as Acer, Dell, HP, Lenovo, and VAIO without demos nor trialware (pre-installed free trials of certain third-party software that expire after a limited time)."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 257,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Privacy",
+        "desc": "Privacy is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 258,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Security",
+        "desc": "Security is freedom from, or resilience against, potential harm (or other unwanted coercive change) caused by others."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 259,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Bing",
+        "desc": "Bing is a web search engine owned and operated by Microsoft."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 260,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "MSN",
+        "desc": "MSN (stylized in all lowercase) is a web portal and related collection of Internet services and apps for Windows and mobile devices, provided by Microsoft and launched on August 24, 1995, the same release date as Windows 95.[3]The Microsoft Network was initially a subscription-based dial-up online service that later became an Internet service provider named MSN Dial-up."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 261,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "PC Gaming",
+        "desc": "A PC game, also known as a computer game or personal computer game, is a type of video game played on a personal computer rather than a video game console or arcade machine."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 262,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Mac",
+        "desc": "The Macintosh (/ˈmækɪntɒʃ/ MAK-in-tosh; branded simply as Mac since 1998) is a family of personal computers designed, manufactured and sold by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 263,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "iPad",
+        "desc": "iPad (/ˈaɪpæd/ EYE-pad) is a line of tablet computers designed, developed and marketed by Apple Inc., which run the iOS and iPadOS mobile operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 264,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "iPhone",
+        "desc": "GSM models also include:CDMA model also includes:The iPhone is a line of smartphones designed and marketed by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 265,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Watch",
+        "desc": "Compal Electronics[2]Original, Series 1, Series 2, and Series 3:\n38mm\n33.96 mm (1.337 in) diagonal, 272×340 pixels, 326 dpi\n42mm\n38.96 mm (1.534 in) diagonal, 312×390 pixels, 326 dpi\n\nSeries 4 and Series 5:\n40mm\n324×394 pixels, 326 dpi\n44mm\n368×448 pixels, 326 dpi38mm\n3.8 V 0.78 W·h (205 mA·h)[18][19]38 mm\n38.6 mm × 33.3 mm × 10.5 mm\n(1.52 in × 1.31 in × 0.41 in)\n42 mm\n42 mm × 35.9 mm × 10.5 mm\n(1.65 in × 1.41 in × 0.41 in)\n\nSeries 4 and Series 5:\n40 mm\n40 mm × 34 mm × 10.7 mm\n(1.57 in × 1.34 in × 0.42 in)Apple Watch is a line of smartwatches designed, developed, marketed and sold by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 266,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "TV",
+        "desc": "Apple TV is a digital media player and microconsole developed and sold by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 267,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Music",
+        "desc": "Apple Music is a music and video streaming service developed by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 268,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "AirPods",
+        "desc": "AirPods are wireless Bluetooth earbuds created by Apple."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 269,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "HomePod",
+        "desc": "HomePod is a smart speaker developed by Apple Inc., the company's second speaker after the iPod Hi-Fi."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 270,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "iPod touch",
+        "desc": "Wi-Fi (802.11 b/g)\n4th gen:\nWi-Fi (802.11 b/g/n)\n5th gen:\nWi-Fi (802.11 a/b/g/n)\n6th gen and 7th gen:\nWi-Fi (802.11 a/b/g/n/ac)2nd gen, 3rd gen, and 4th gen:\nBluetooth 2.1 + EDR\n5th gen:\nBluetooth 4.0\n6th gen and 7th gen:\nBluetooth 4.1[6]The iPod Touch (stylized and marketed as iPod touch) is a brand of iOS-based all-purpose mobile devices designed and marketed by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 271,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Gift Cards",
+        "desc": "A gift card also known as gift certificate in North America, or gift voucher or gift token in the UK [1] is a prepaid stored-value money card, usually issued by a retailer or bank, to be used as an alternative to cash for purchases within a particular store or related businesses."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 272,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Apple Music",
+        "desc": "Apple Music is a music and video streaming service developed by Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 273,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Apple News+",
+        "desc": "Apple News is a mobile app and news aggregator developed by Apple Inc., for its iOS, watchOS, and macOS operating systems."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 274,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Apple TV+",
+        "desc": "Apple TV+ is an over-the-top ad-free subscription video on demand web television service of Apple Inc."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 275,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "Apple Card",
+        "desc": "Apple Card is a credit card created by Apple Inc., but developed by Goldman Sachs, designed primarily to be used with Apple Pay on Apple devices such as an iPhone, iPad, Apple Watch, or Mac.[1][2] On August 6, 2019, invitations to an early preview started being sent to randomly selected users who had previously signed up for email notifications ahead of Apple Card's official launch.[3] It was released in the United States on August 20, 2019.[4] (Additional cardholders and joint accounts are not supported.)[5]Apple Card was announced at an Apple Special Event on March 25, 2019."
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 276,
+      "labels": [
+        "PRODUCT"
+      ],
+      "properties": {
+        "name": "iCloud",
+        "desc": "iCloud is a cloud storage and cloud computing service[1][2][3] from Apple Inc."
+      }
+    }
+  }
+]

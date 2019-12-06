@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 class WikiSpider(scrapy.Spider):
     name = 'wiki_company'
 
-    start_urls = ['https://en.wikipedia.org/wiki/Facebook']
+    start_urls = ['https://en.wikipedia.org/wiki/Youtube']
 
     def parse(self, response):
         parsed_uri = urlparse(response.url)
